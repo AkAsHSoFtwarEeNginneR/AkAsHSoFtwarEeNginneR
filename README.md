@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AkAsHSoFtwarEeNginneR
+- 👋 Hi, I’m AKASH SRIVASTAVA
 - 👀 I’m interested in Learning Azure and AWS Devops and .Net Developing Tools and Live project.
 - 🌱 I’m currently learning AWS Deveops .
 - 💞️ I’m looking to collaborate on Frnds and Company .
